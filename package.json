@@ -1,6 +1,9 @@
 {
   "name": "restful-rest",
   "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.16.2" 
+  },
   "description": "RESTful API to get a calming/inspirational quote.",
   "main": "RESTfulRest.js",
   "scripts": {
