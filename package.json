@@ -1,0 +1,20 @@
+{
+  "name": "restful-rest",
+  "version": "1.0.0",
+  "description": "RESTful API to get a calming/inspirational quote.",
+  "main": "RESTfulRest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REST",
+    "api",
+    "RESTfulRest",
+    "calming",
+    "quote",
+    "inspiration",
+    "fun"
+  ],
+  "author": "Ryan Stewart",
+  "license": "MIT"
+}
